@@ -15,7 +15,7 @@ Watch a 2-minute demonstration of Samantha in action, where I showcase real-time
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=qVstKgrwX_o">
-    <img src="images/thumbnail_short_demo.png" alt="YouTube Demo" width="500">
+  
   </a>
   <br>
   <em>👆 Click the image to watch the demo on YouTube</em>
